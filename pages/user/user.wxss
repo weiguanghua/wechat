@@ -1,0 +1,17 @@
+.userbox{
+  height: 600px
+}
+.DIV{
+  width: 750rpx;
+  height: 100px;
+  background: blanchedalmond;
+}
+.active{
+  color: orangered；
+}
+.scroll-view-item{
+  height: 100px
+}
+.holder{
+  color: orangered
+}

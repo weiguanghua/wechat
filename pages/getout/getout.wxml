@@ -1,0 +1,24 @@
+<view class="classname">
+    <view class="footer">
+      <navigator class="box" url="../index/index" open-type="navigate">
+        <image src="../../imgs/tu5.png"></image>
+          首页
+      </navigator>
+       <navigator class="box" url="../search/search" open-type="navigate">
+        <image src="../../imgs/tu6.png"></image>
+          发现
+      </navigator>
+       <navigator class="box">
+        <image src="../../imgs/tu9.png" class="nie"></image>
+        <image src="../../imgs/tu10.png" class="ten"></image>
+      </navigator>
+       <navigator class="box" url="../logs/logs" open-type="navigate">
+        <image src="../../imgs/tu7.png"></image>
+          我的
+      </navigator>
+       <navigator class="box" url="../getout/getout" open-type="navigate">
+        <image src="../../imgs/tu8.png"></image>
+          退出
+      </navigator>
+    </view>
+</view>

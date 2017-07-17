@@ -1,0 +1,102 @@
+<!--index.wxml-->
+<view class="container">
+   <view class="top">
+      <view class="le">足球现场</view>
+      <view class="ce">足球生活</view>
+      <view class="ri">足球美女</view>
+   </view>
+    <view class="content">
+      <view class="box">
+        <image src="../../imgs/tu1.png" ></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu2.png"></image>
+          萌萌哒小丸子啊萌萌!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu3.png"></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu4.png"></image>
+          小丸子啊萌萌哒小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu1.png"></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu2.png"></image>
+          萌萌哒小丸子啊萌萌哒!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu3.png"></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu13.png"></image>
+          小丸子啊萌萌哒小丸子!
+        </view>
+      </view>
+      <view class="foot-live">
+      <view class="box">
+        <image src="../../imgs/tu11.png" ></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu12.png"></image>
+          萌萌哒小丸子啊萌萌!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu12.png"></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu12.png"></image>
+          小丸子啊萌萌哒小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu11.png"></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu12.png"></image>
+          萌萌哒小丸子啊萌萌哒!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu11.png"></image>
+          小丸子啊小丸子!
+      </view>
+       <view class="box">
+        <image src="../../imgs/tu11.png"></image>
+          小丸子啊萌萌哒小丸子!
+      </view>
+      <image src="../../imgs/tu13.png"></image>
+      <image src="../../imgs/tu14.png"></image>
+      <image src="../../imgs/tu15.png"></image>
+   </view>
+   <view class="footer">
+      <navigator class="box" url="../index/index" open-type="navigate">
+        <image src="../../imgs/tu5.png"></image>
+          首页
+      </navigator>
+       <navigator class="box" url="../search/search" open-type="navigate">
+        <image src="../../imgs/tu6.png"></image>
+          发现
+      </navigator>
+       <navigator class="box">
+        <image src="../../imgs/tu9.png" class="nie"></image>
+        <image src="../../imgs/tu10.png" class="ten"></image>
+      </navigator>
+       <navigator class="box" url="../logs/logs" open-type="navigate">
+        <image src="../../imgs/tu7.png"></image>
+          我的
+      </navigator>
+       <navigator class="box" url="../getout/getout" open-type="navigate">
+        <image src="../../imgs/tu8.png"></image>
+          退出
+      </navigator>
+    </view>
+    
+</view>

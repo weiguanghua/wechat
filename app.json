@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/index" ,
+    "pages/logs/logs",
+   "pages/user/user",
+   "pages/search/search",
+   "pages/getout/getout"
+  ],
+  "window": {
+   "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#0dc441",
+  "navigationBarTitleText": "足球圈",
+  "navigationBarTextStyle": "white",
+  "backgroundColor": "hotpink"
+}
+}

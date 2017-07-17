@@ -1,0 +1,102 @@
+/**index.wxss**/
+.top{
+  display: flex;
+  width:100%;
+  height:40px;
+ border-bottom:solid 1px #cccccc;
+ position:absolute;
+ top:0;
+ left:0;
+ text-align: center;
+ line-height:40px;
+}
+.top .le{
+  width:33%;
+  height:100%;
+  border-bottom:solid 2px #0dc441;
+  color: #0dc441
+}
+.top .ce{
+  width:33%;
+  height:100%;
+  
+}
+.top .ri{
+  width:33%;
+  height:100%;
+  
+}
+.content{
+  display: flex;
+  width:100%;
+  height:300px;
+  flex-wrap: wrap;
+  position:absolute;
+  top:50px;
+}
+.content .box{
+  width:49%;
+  height:230px;
+  margin:0.5%;
+  overflow:hidden;
+}
+.content .box image{
+  max-width:100%;
+  height:205px;
+}
+.foot-live{
+  width:100%;
+  height:300px;
+  flex-wrap: wrap;
+  position:absolute;
+  top:50px;
+  display: none;
+}
+.foot-live .box{
+  width:49%;
+  height:230px;
+  margin:0.5%;
+  overflow:hidden;
+}
+.foot-live .box image{
+  max-width:100%;
+  height:205px;
+}
+.footer{
+  display: flex;
+  width:100%;
+  height:50px;
+  background:white;
+  position:fixed;
+  top:554px;
+  border-top:solid 1px #cccccc;
+}
+.footer .box:nth-child(1){
+  color:#0dc441;
+}
+.footer .box{
+  width:20%;
+  height:50px;
+  overflow:hidden;
+  text-align: center;
+}
+.footer .box image{
+  max-width:40%;
+  height:25px;
+  display: block;
+  margin:0 auto;
+}
+.footer .box .nie{
+  position: absolute;
+  top:-10px;
+  height:60px;
+  width:20%;
+}
+.footer .box .ten{
+  position: absolute;
+  z-index:999;
+  top:0px;
+  left:42%;
+  width:16%;
+  height:40px;
+}
